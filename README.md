@@ -6,5 +6,3 @@ The complete project files total **1.3GB** (including components of 350MB and 25
 ### 📥 Download Link
 You can download the full, uncompressed dataset here:
 👉 **[Download Project Files via Google Drive](https://drive.google.com/drive/folders/1xSO1kP4AL8eRTUQrHbdtoSvj1IDsh1bL)**
-
-https://drive.google.com/drive/folders/1xSO1kP4AL8eRTUQrHbdtoSvj1IDsh1bL
